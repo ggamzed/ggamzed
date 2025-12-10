@@ -17,10 +17,10 @@ I’m a final-year **Computer Engineering student** at Maltepe University in Ist
 ## 📚 Skills & Focus
 
 - **Languages**:  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=c" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=python" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=js" width="40" height="40" />
     
 - **Frameworks & Tools**:  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=react" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" />
 
 ---
 
