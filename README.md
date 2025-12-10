@@ -15,16 +15,17 @@ I’m a final-year **Computer Engineering student** at Maltepe University in Ist
 
 ## 📚 Skills & Focus
 
-**Languages**  
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="50" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="50" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="50" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="50" />
-
-**Frameworks & Tools**  
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<div align="center">
+Languages
+<img src="https://skillicons.dev/icons?i=c" height="70" />
+<img src="https://skillicons.dev/icons?i=cpp" height="70" />
+<img src="https://skillicons.dev/icons?i=python" height="70" />
+<img src="https://skillicons.dev/icons?i=js" height="70" />
+Frameworks & Tools
+<img src="https://skillicons.dev/icons?i=react" height="70" />
+<img src="https://skillicons.dev/icons?i=tensorflow" height="70" />
+<img src="https://skillicons.dev/icons?i=vscode" height="70" />
+</div>
 
 ---
 
