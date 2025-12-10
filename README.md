@@ -15,16 +15,11 @@ I’m a final-year **Computer Engineering student** at Maltepe University in Ist
 
 ## 📚 Skills & Focus
 
-<div align="center">
 Languages
-<img src="https://skillicons.dev/icons?i=c" height="70" />
-<img src="https://skillicons.dev/icons?i=cpp" height="70" />
-<img src="https://skillicons.dev/icons?i=python" height="70" />
-<img src="https://skillicons.dev/icons?i=js" height="70" />
-Frameworks & Tools
-<img src="https://skillicons.dev/icons?i=react" height="70" />
-<img src="https://skillicons.dev/icons?i=tensorflow" height="70" />
-<img src="https://skillicons.dev/icons?i=vscode" height="70" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" width="60" style="border-radius: 50%; background-color: #00599C; padding: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" width="60" style="border-radius: 50%; background-color: #00599C; padding: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" width="60" style="border-radius: 50%; background-color: #3776AB; padding: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" width="60" style="border-radius: 50%; background-color: #F7DF1E; padding: 10px;" />
 </div>
 
 ---
