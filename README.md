@@ -15,12 +15,16 @@ I’m a final-year **Computer Engineering student** at Maltepe University in Ist
 
 ## 📚 Skills & Focus
 
-Languages
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" width="60" style="border-radius: 50%; background-color: #00599C; padding: 10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" width="60" style="border-radius: 50%; background-color: #00599C; padding: 10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" width="60" style="border-radius: 50%; background-color: #3776AB; padding: 10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" width="60" style="border-radius: 50%; background-color: #F7DF1E; padding: 10px;" />
-</div>
+**Languages**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" width="50" style="border-radius: 50%; background-color: #00599C; padding: 8px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" width="50" style="border-radius: 50%; background-color: #00599C; padding: 8px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="50" style="border-radius: 50%; background-color: #3776AB; padding: 8px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="50" style="border-radius: 50%; background-color: #F7DF1E; padding: 8px;" />
+
+**Frameworks & Tools**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" width="50" style="border-radius: 50%; background-color: #20232A; padding: 8px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" width="50" style="border-radius: 50%; background-color: #FF6F00; padding: 8px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" width="50" style="border-radius: 50%; background-color: #007ACC; padding: 8px;" />
 
 ---
 
