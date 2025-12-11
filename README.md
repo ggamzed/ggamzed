@@ -27,6 +27,6 @@ I’m a final-year **Computer Engineering student** at Maltepe University in Ist
 ## 📫 Contact with me
 
 📧 **Email:** gamzedemirciak@gmail.com <br>
-🔗 **LinkedIn:** https://www.linkedin.com/in/gamze-demirci-9365b42a0/
+🔗 **LinkedIn:** www.linkedin.com/in/gamzedmrc/
 
 ---
