@@ -17,12 +17,23 @@ I’m a **Computer Engineering graduate** from Maltepe University in Istanbul, f
 ## 📚 Skills & Focus
 
 - **Languages**:  
-  <img src="https://skillicons.dev/icons?i=c" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=python" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=js" width="40" height="40" /> <img 
-  src="https://skillicons.dev/icons?i=ts" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=c" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=python" width="40" height="40" /> <img 
+  src="https://skillicons.dev/icons?i=java" width="40" height="40" /> <img 
+  src="https://skillicons.dev/icons?i=ts" width="40" height="40" /> <img 
+  src="https://skillicons.dev/icons?i=js" width="40" height="40" /> <img 
+  src="https://skillicons.dev/icons?i=html" width="40" height="40" /> <img 
+  src="https://skillicons.dev/icons?i=css" width="40" height="40" /> <img 
+  src="https://skillicons.dev/icons?i=sass" width="40" height="40" />
 
     
 - **Frameworks & Tools**:  
-  <img src="https://skillicons.dev/icons?i=react" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=react" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" /> <img 
+  src="https://skillicons.dev/icons?i=vue" width="40" height="40" /> <img 
+  src="https://skillicons.dev/icons?i=sklearn" width="40" height="40" /> <img 
+  src="https://skillicons.dev/icons?i=git" width="40" height="40" /> <img 
+  src="https://skillicons.dev/icons?i=linux" width="40" height="40" /> <img 
+  src="https://skillicons.dev/icons?i=apple" width="40" height="40" /> <img 
+  src="https://skillicons.dev/icons?i=vscode" width="40" height="40" />
 
 ---
 
